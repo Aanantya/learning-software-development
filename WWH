@@ -4,20 +4,20 @@ W - To learn end-to-end software development
 H - By practically implementating
 
 ### Stages
-Step 1 : create a demo app
-Step 2 : use nginx for servering the application on web
-Step 3 : ssl for nginx
-Step 4 : nginx security 
-Step 5 : dockerizing the application
-Step 6 : Security best practices
-Step 7 : backups
-Step 8 : automate backups
-Step 9 : application to server multiple requests
-Step 10 : automate scaling up and down
-Step 11: update the code hassle free
-Step 12: Software testing
-Step 13: hassle free updates via multiple users
-Step 14: Maintain and manage version control
+1 : create a demo app
+2 : use nginx for servering the application on web
+3 : ssl for nginx
+4 : nginx security 
+5 : dockerizing the application
+6 : Security best practices
+7 : backups
+8 : automate backups
+9 : application to server multiple requests
+10: automate scaling up and down
+11: update the code hassle free
+12: Software testing
+13: hassle free updates via multiple users
+14: Maintain and manage version control
 
 
 
