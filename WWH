@@ -1,0 +1,23 @@
+### Broader Vision
+W - Understand CI/CD pipeline
+W - To learn end-to-end software development
+H - By practically implementating
+
+### Stages
+Step 1 : create a demo app
+Step 2 : use nginx for servering the application on web
+Step 3 : ssl for nginx
+Step 4 : nginx security 
+Step 5 : dockerizing the application
+Step 6 : Security best practices
+Step 7 : backups
+Step 8 : automate backups
+Step 9 : application to server multiple requests
+Step 10 : automate scaling up and down
+Step 11: update the code hassle free
+Step 12: Software testing
+Step 13: hassle free updates via multiple users
+Step 14: Maintain and manage version control
+
+
+
